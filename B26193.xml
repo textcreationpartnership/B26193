@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons loud cryes to the Lord by prayer: made by a reverend divine, and approved of by many others: most fit to be used by every master of a family, both in city and country. With an account of several modern plagues, or visitations in London, with the number of those that then dyed, as well of all diseases, as of the plague; continued down to this present day August, 8th. 1665.</title>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26193</idno><idno type="EEBO-CITATION">99885534</idno>
+  <idno type="VID">185233</idno>
+  <idno type="EEBO-PROQUEST">2240898166</idno>
+  
+            <idno type="STC">Wing L2938</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[26]</idno>
+            <idno type="STC">ESTC R224593</idno>
+            <idno type="PROQUEST">ocm99885534</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885534e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185233)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons loud cryes to the Lord by prayer: made by a reverend divine, and approved of by many others: most fit to be used by every master of a family, both in city and country. With an account of several modern plagues, or visitations in London, with the number of those that then dyed, as well of all diseases, as of the plague; continued down to this present day August, 8th. 1665.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for T. Mabb, for R. Burton, and R. Gilberson [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With weekly statistics for 1592, 1603, 1625, 1630, 1636, 1637, 1665; yearly statistics for 1638, 1646, 1647, 1648.</note>
+                  <note>The last printed total is for the week of August 8, for those "Buried in London and the Liberties of all diseases...".</note>
+                  <note>Date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  England --  London --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185233:1"/>
+            <head>
+               <figure>
+                  <figDesc>text bordered by images of skeletons, skulls, and graveyard implements</figDesc>
+               </figure>
+            </head>
+            <head>Londons Loud Cryes to the Lord by Prayer: Made by a Reverend Divine, and Approved of by many others: Most fit to be Used by every Master of a Family, both in City and Country. With an Account of Several modern Plagues, or Visitations in <hi>London,</hi> With the Number of those that then Dyed, as well of all Diseases, as of the <hi>Plague;</hi> Continued down to this present Day <hi>August,</hi> 8<seg rend="sup">th</seg>. 1665.</head>
+            <p>
+               <figure>
+                  <figDesc>London being struck by a plague</figDesc>
+                  <head>O London, Repent, Repen<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+               </figure> OMnipotent Lord, thou sin-revengingGod, who for disobedience diddest threaten thine own people of Israel to <hi>smite them in the knees,</hi>
+               <note place="margin">Deut. 28.35.</note>
+               <hi>and in the legs with a sore Botch that could not be healed, from the sole of the foot unto the top of the head: to smite them with the botch of Egypt,</hi>
+               <note place="margin">vers 27.</note>
+               <hi>whereof they could not be healed:</hi> Thou who by the mouth of thine onely Son diddest fore-tell to the Jews that <hi>Nation should rise against Nation, Kingdome against Kingdom, and</hi> that <hi>there should be Fa<g ref="char:EOLhyphen"/>mines and Pestilences in diverse places:</hi>
+               <note place="margin">Mat. 24.7</note> Be pleased, ô thou great, offended Lord, in the bowells of thy compassion to <hi>let thine anger cease,</hi>
+               <note place="margin">Psal. 85.4</note> and to bow down thine eare to us miserable sinners. O our God, thou seest how we groan under the burthen of thy wrathful indignation, bemoaning the gene<g ref="char:EOLhyphen"/>rall sufferances for our more general sins. Our sins, our sins doe far exceed the trans<g ref="char:EOLhyphen"/>gressions of Israel: yea they are greater then those of the Jews against the true Mes<g ref="char:EOLhyphen"/>sias; for thine own Apostle beareth them witnesse,<note place="margin">1 Cor. 2.8</note> that <hi>Had they known it, they would not have crucified the Lord of Glory:</hi> but we alas, both <hi>have</hi> known, and <hi>doe</hi> know him; &amp; yet we <hi>crucifie to our selves the son of thee our God afresh;</hi>
+               <note place="margin">Heb. 6.6</note>
+               <hi>and</hi> daily <hi>put him to an open shame.</hi> For these our offences thou hast be<g ref="char:EOLhyphen"/>gun thy Revenge, yea, and most justly too; for thou art deer, though man should judge thee. Under this thy heavy wrath we groan O Lord, we cry, we howle; for <hi>sicknesse</hi> in<g ref="char:EOLhyphen"/>creaseth, <hi>death</hi> approacheth: yea such a <hi>sicknesse,</hi> and such a <hi>death,</hi> as maketh us <hi>feare</hi> both our selves, and our neighbours; because we have not <hi>feared</hi> thee the Lord of hosts. Thou seest, ô Lord, our afflictions; even that our <hi>houses</hi> are made our <hi>prisons,</hi> &amp; our <hi>sores</hi> our <hi>companions.</hi> Our <hi>streets</hi> are tur<g ref="char:EOLhyphen"/>ned into <hi>pastures,</hi> our <hi>towns</hi> into <hi>wildernesses</hi> and for our backwardness in our devotions, our very doores instruct us to addresse our selves unto thee, and to beseech thee <hi>Lord</hi> to <hi>have mercy upon us.</hi> Our <hi>days</hi> are consumed in sorrows, and languishing; and our <hi>nights</hi> in weeping, and mourning. Thou woun<g ref="char:EOLhyphen"/>dest us, and we cry; thou smitest us, and we roare, thou <hi>plag<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>st</hi> u<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> troubled, we are dismayed. Our <hi>Golgothaes</hi> are surfeited with the dead, and our habita<g ref="char:EOLhyphen"/>tions <hi>infected</hi> with the living. We fly from place to place, from Country to Country; and yet wee fly not from thy presence, wee avoid not thy judgments. What shall wee do,<note place="margin">Jer. 8.22.</note> What shall we do? <hi>Is there no balm,</hi> O Lord, <hi>in Gilead? Is there no Physitian there? Why then is not the health of the daughter of thy people recovered?</hi> Thy Son, thy mer<g ref="char:EOLhyphen"/>cifull Son, thy sweet Son Jesus was <hi>sent to binde up the broken hearted,</hi> and <hi>to open the prisons to them that were bound,</hi>
+               <note place="margin">Isa. 66.1. v. 2.</note> and to <hi>com<g ref="char:EOLhyphen"/>fort them that mourn:</hi> and he was not back<g ref="char:EOLhyphen"/>ward in the performance of this for which he was sent; for he <hi>healed all manner of sick<g ref="char:EOLhyphen"/>nesse,</hi>
+               <note place="margin">Mat. 4.23 c. 15.30.</note>
+               <hi>and all manner of diseases among the people. At thy feet</hi> therefore, <hi>ô Jesus</hi> thou best Physitian, wee <hi>cast our selves down.</hi> A <hi>mul<g ref="char:EOLhyphen"/>titude</hi> we are that ly at thy feet: Cure us, ô Christ, heal us, ô Jesus, as thou diddest the multitude. <hi>A whole multitude</hi> once <hi>did seek to touch thee; for there went virtue out of thee; and thou healedst them all.</hi>
+               <note place="margin">Luk. 6.19 Mat. 14.14.</note> Thou wert <hi>moved with compassion, and</hi> didst <hi>heal their sick.</hi> Ma<g ref="char:EOLhyphen"/>ny didst thou cure of their infirmities, and <hi>plagues. Behold thy hand is not shortned that it cannot save;</hi>
+               <note place="margin">Luk. 7.21</note>
+               <hi>neither is thine ear heavy that thou canst not hear.</hi> The number of petitio<g ref="char:EOLhyphen"/>ners cannot deter thee;<note place="margin">Isa. 59.1.</note> the multitude of suitors cannot <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>healed many:</hi>
+               <note place="margin">Mat. 3.10</note> therefore, with the multitude in the Gospel, we presse upon thee, that we may but <hi>touch</hi> thee; for thou hast virtue in thee; thou hast power to heal. O Lord hear, ô Lord forgive, ô Lord <hi>heal</hi> us of our grie<g ref="char:EOLhyphen"/>vous <hi>wounds.</hi> In the depth of thy fury when thou didst resolve to be revenged of a Re<g ref="char:EOLhyphen"/>bellious people, it was yet thy promise that thou wouldest <hi>leave a few from the Sword,</hi>
+               <note place="margin">Ezek. 12.16.</note>
+               <hi>and from the Famine, and from the Pestilence, that they might declare all their abominations among the people where they</hi> should <hi>come;</hi> that <hi>they</hi> might <hi>know that thou art the Lord. Us</hi> thou hast <hi>Plagued, us</hi> thou hast <hi>punished,</hi> so <hi>sorely,</hi> so grievously, that but few of us are left: yet ô Lord, now at last look in mercy upon us: ô Lord let this remnant finde thy compassion. O cure us, ô heal us, ô help us for thy mercy's sake. When thou wert angry with <hi>Egypt,</hi> thou didst threaten to <hi>smite it:</hi>
+               <note place="margin">Isa. 19.22</note> but, even at that very instant, thou didst like wise promise to <hi>heal it; and</hi> that they should <hi>return unto thee their Lord, and that thou wouldest be intreated of them.</hi>
+               <note place="margin">Jer. 33 6</note> Thou diddest proclaim unto <hi>Judah</hi> that thou <hi>wouldst bring it health, and cure; and</hi> wouldest <hi>cure them, and reveale unto them aboundance of peace &amp; truth.</hi> Thou didst promise unto Zion, that thou wouldest <hi>restore health unto her,</hi>
+               <note place="margin">cap. 30.17</note>
+               <hi>and heal her of her wounds, because she was called an out-cast</hi> by the people, <hi>saying; <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, whom no man seeketh after.</hi> These were thy promises even in the midst of thy threat<g ref="char:EOLhyphen"/>nings: and wilt thou be worse unto us then thou wert unto <hi>Egypt,</hi> or <hi>Judah,</hi> or <hi>Zion?</hi> True it is that thou expectest our conver<g ref="char:EOLhyphen"/>sion;<note place="margin">Joel 2.12</note> thou commandest us to <hi>turn unto thee with all our hearts, and with fasting, and with weeping, and with mourning.</hi> To thee there<g ref="char:EOLhyphen"/>fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ô God (though formerly we have not, yet now) do we turn. Wee turn unto thee both our weeping <hi>Eyes,</hi> and our dejected <hi>Countenances,</hi> and our wringing <hi>Hands,</hi> and our bended <hi>Knees,</hi> and our mourning <hi>voyces,</hi> and our groaning <hi>hearts.</hi> Merciful God, be<g ref="char:EOLhyphen"/>hold our <hi>Tears,</hi> and view our countenances, and look upon our hands, strengthen our knees, and hearken to our voyces, and com<g ref="char:EOLhyphen"/>fort our hearts. <hi>The Priests,</hi> ô Lord,<note place="margin">vers. 17.</note> even thine own <hi>Ministers</hi> doe <hi>weep between the Porch and the Altar, and</hi> they <hi>say, Spare thy people, ô Lord, and give not thine heritage to reproach.</hi> Our <hi>Ezra's pray,</hi>
+               <note place="margin">Ezra. 10.1</note>
+               <hi>and confesse and weep, and cast themselves down before thine house; and the people assemble themselves un<g ref="char:EOLhyphen"/>to them, both our men and our women, and our children; for</hi> we all <hi>weep very sore.</hi> We <hi>weep</hi> as the Israelites did <hi>before the doore of the tabernacle of the congregation,</hi>
+               <note place="margin">Num. 2.56.</note> when twenty and four thousand of them dyed of the <hi>Pe<g ref="char:EOLhyphen"/>stilence.</hi> Thus we mourn; thus we weep: our Eys, our Hearts, our very souls do <hi>weep:</hi> ô let us tast of thy love; let us feel thy com<g ref="char:EOLhyphen"/>passion. Make us to boast of thy praise, as thy servant <hi>David</hi> did; when he <hi>cryed unto thee, and thou didst heal him.</hi>
+               <note place="margin">Psal. 30.2</note> Thou hast been wroth with us, as thou wert with the Jews <hi>for their coveteousnesse;</hi>
+               <note place="margin">Isa. 57.17</note> and thou hast <hi>smit<g ref="char:EOLhyphen"/>ten us:</hi> thou hast <hi>hid thy self,</hi> and <hi>hast been angry;</hi> yet <hi>we have gone on frowardly in the wayes of our hearts.</hi> But O our God, do thou make us as penitent as those Jews; and then say unto us as thou didst unto thy Judah, <hi>I have seen thy wayes, and I will heale thee:</hi>
+               <note place="margin">v. 18.</note>
+               <hi>I will lead thee also, and restore comforts unto thee and to thy mourners.</hi> Alas, we mourn, and yet we are punished: we grieve, and yet we are <hi>Plagued;</hi>
+               <note place="margin">Jer. 14.7.</note> and all because <hi>our iniquities do testifie against us: But for thy name's sake,</hi> O Lord, be pleased to spare us.<note place="margin">vers. 8.</note>
+               <hi>O the hope of Israel, the Saviour thereof in the time of trouble, why shouldest thou be as a stra<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the land; and as a way-faring man that tur<g ref="char:EOLhyphen"/>neth aside to tarry but a night? Why shouldest thou be as a man astonished;</hi>
+               <note place="margin">vers. 9.</note>
+               <hi>as a mighty man that cannot save? Thou, O Lord, art</hi> still <hi>in the midst of us, and we are called by thy name;</hi> therefore, we pray thee, <hi>leave us not.</hi> O here is <hi>a Pestilence in</hi> our <hi>land;</hi>
+               <note place="margin">1 King 8.37. vers. 38. v. 39. v. 40.</note> and we <hi>make our prayers and supplications,</hi> and <hi>stretch forth our</hi>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>in heaven thy dwelling place, and forgive;</hi> that we may <hi>fear thee,</hi> and walk in thy wayes all the dayes of our lives. Or if the sins of us thy people cause thee to stop thine ears at our prayers, O hear thou our <hi>Hezekiah's praying for us,</hi>
+               <note place="margin">2 Chr. 30 18.</note>
+               <hi>who have not cleansed our selves.</hi> Stay the <hi>Plague</hi> from us thine Israel, as thou didst from thy people, when thy ser<g ref="char:EOLhyphen"/>vant <hi>Phinehas executed judgment.</hi>
+               <note place="margin">Psal. 106.30. Num. 16.46.</note> Cause our Aarons to <hi>take their Censers, and</hi> to <hi>put fire in them from off the Altar, and to put on in<g ref="char:EOLhyphen"/>cense:</hi> O let them come quickly to our congregations, and make an attonement for us.<note place="margin">v. 48.</note> Let them <hi>stand between the dead and the living, and let the Plague be stayed.</hi> Thine <hi>Angel stretcheth forth his hand upon our Je<g ref="char:EOLhyphen"/>rusalem to destroy it:</hi>
+               <note place="margin">2 Sam. 24 16.</note> O do thou as in the time of King David: <hi>Repent thee of the evill and say unto the destroying Angel, It is enough; stay now thy hand.</hi> Hear <hi>us,</hi> O Lord, for the distressed <hi>People</hi> in this <hi>City</hi> and <hi>Nation;</hi> and hear <hi>them</hi> for us, and hear thy <hi>Christ</hi> for us all: That to <hi>Him,</hi> and <hi>Thee,</hi> and thy <hi>bles<g ref="char:EOLhyphen"/>sed Spirit,</hi> we may render (as is most due) all Praise, and Glory, and Thanksgiving, and Obedience, from this time forth for ever more, <hi>Amen.</hi> Saying as Christ him<g ref="char:EOLhyphen"/>self hath taught us, <hi>Our Father,</hi> &amp;c.</p>
+            <p>
+               <table>
+                  <head>An exact and true relati<g ref="char:EOLhyphen"/>on of the number of those that were buried in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Liberties of all Diseases, from the 17 of <hi>March</hi> 1591: to the 22. of <hi>December</hi> 1592.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">total.</cell>
+                     <cell role="label">Pl.</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>351</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>219</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>307</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>April 7</cell>
+                     <cell>203</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>April 14</cell>
+                     <cell>290</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>April 21</cell>
+                     <cell>310</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>April 28</cell>
+                     <cell>350</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>339</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>300</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>450</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>410</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>June 2</cell>
+                     <cell>441</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>June 9</cell>
+                     <cell>399</cell>
+                     <cell>99</cell>
+                  </row>
+                  <row>
+                     <cell>June 16</cell>
+                     <cell>401</cell>
+                     <cell>108</cell>
+                  </row>
+                  <row>
+                     <cell>June 23</cell>
+                     <cell>850</cell>
+                     <cell>118</cell>
+                  </row>
+                  <row>
+                     <cell>June 30</cell>
+                     <cell>1440</cell>
+                     <cell>927</cell>
+                  </row>
+                  <row>
+                     <cell>July 7</cell>
+                     <cell>1510</cell>
+                     <cell>893</cell>
+                  </row>
+                  <row>
+                     <cell>July 14</cell>
+                     <cell>1491</cell>
+                     <cell>258</cell>
+                  </row>
+                  <row>
+                     <cell>July 21</cell>
+                     <cell>1507</cell>
+                     <cell>852</cell>
+                  </row>
+                  <row>
+                     <cell>July 28</cell>
+                     <cell>1503</cell>
+                     <cell>983</cell>
+                  </row>
+                  <row>
+                     <cell>August 4</cell>
+                     <cell>1550</cell>
+                     <cell>797</cell>
+                  </row>
+                  <row>
+                     <cell>August 11</cell>
+                     <cell>1532</cell>
+                     <cell>651</cell>
+                  </row>
+                  <row>
+                     <cell>August 18</cell>
+                     <cell>1508</cell>
+                     <cell>449</cell>
+                  </row>
+                  <row>
+                     <cell>August 25</cell>
+                     <cell>1490</cell>
+                     <cell>507</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 1</cell>
+                     <cell>1210</cell>
+                     <cell>563</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 8</cell>
+                     <cell>621</cell>
+                     <cell>451</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 15</cell>
+                     <cell>629</cell>
+                     <cell>349</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 22</cell>
+                     <cell>450</cell>
+                     <cell>130</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 29</cell>
+                     <cell>408</cell>
+                     <cell>327</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 6</cell>
+                     <cell>422</cell>
+                     <cell>323</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 13</cell>
+                     <cell>330</cell>
+                     <cell>308</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 20</cell>
+                     <cell>320</cell>
+                     <cell>302</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 27</cell>
+                     <cell>310</cell>
+                     <cell>301</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 3</cell>
+                     <cell>309</cell>
+                     <cell>209</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 10</cell>
+                     <cell>301</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 17</cell>
+                     <cell>321</cell>
+                     <cell>93</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 24</cell>
+                     <cell>349</cell>
+                     <cell>94</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 1</cell>
+                     <cell>331</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 8</cell>
+                     <cell>329</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 15</cell>
+                     <cell>386</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>Baptized</cell>
+                     <cell cols="2">5827</cell>
+                  </row>
+                  <row>
+                     <cell>The total.</cell>
+                     <cell cols="2">25886</cell>
+                  </row>
+                  <row>
+                     <cell>Of the Plague,</cell>
+                     <cell cols="2">11503</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>1603.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">total.</cell>
+                     <cell role="label">Pl.</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>108</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>60</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>March 31</cell>
+                     <cell>78</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>April 7</cell>
+                     <cell>66</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>April 14</cell>
+                     <cell>79</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>April 21</cell>
+                     <cell>98</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>April 28</cell>
+                     <cell>109</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>90</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>112</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>122</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>122</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>June 2</cell>
+                     <cell>114</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>June 9</cell>
+                     <cell>131</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>June 16</cell>
+                     <cell>144</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>June 23</cell>
+                     <cell>182</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>June 30</cell>
+                     <cell>267</cell>
+                     <cell>158</cell>
+                  </row>
+                  <row>
+                     <cell>July 7</cell>
+                     <cell>445</cell>
+                     <cell>263</cell>
+                  </row>
+                  <row>
+                     <cell>July 14</cell>
+                     <cell>612</cell>
+                     <cell>424</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The Out-Parishes this Week were joyned with the City.</cell>
+                  </row>
+                  <row>
+                     <cell>July 21</cell>
+                     <cell>1186</cell>
+                     <cell>917</cell>
+                  </row>
+                  <row>
+                     <cell>July 28</cell>
+                     <cell>1728</cell>
+                     <cell>1392</cell>
+                  </row>
+                  <row>
+                     <cell>August 4</cell>
+                     <cell>2256</cell>
+                     <cell>1925</cell>
+                  </row>
+                  <row>
+                     <cell>August 11</cell>
+                     <cell>2077</cell>
+                     <cell>1743</cell>
+                  </row>
+                  <row>
+                     <cell>August 18</cell>
+                     <cell>3054</cell>
+                     <cell>2719</cell>
+                  </row>
+                  <row>
+                     <cell>August 25</cell>
+                     <cell>2853</cell>
+                     <cell>2535</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 1</cell>
+                     <cell>3385</cell>
+                     <cell>3034</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 8</cell>
+                     <cell>3078</cell>
+                     <cell>2728</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 15</cell>
+                     <cell>3129</cell>
+                     <cell>2815</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 22</cell>
+                     <cell>2456</cell>
+                     <cell>2192</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 29</cell>
+                     <cell>1961</cell>
+                     <cell>1731</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 6</cell>
+                     <cell>1831</cell>
+                     <cell>1649</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 13</cell>
+                     <cell>1312</cell>
+                     <cell>1142</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 20</cell>
+                     <cell>648</cell>
+                     <cell>852</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 27</cell>
+                     <cell>625</cell>
+                     <cell>504</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 3</cell>
+                     <cell>737</cell>
+                     <cell>592</cell>
+                  </row>
+                  <row>
+                     <cell>Nov. 10</cell>
+                     <cell>585</cell>
+                     <cell>441</cell>
+                  </row>
+                  <row>
+                     <cell>Nov. 17</cell>
+                     <cell>384</cell>
+                     <cell>255</cell>
+                  </row>
+                  <row>
+                     <cell>Nove. 24</cell>
+                     <cell>198</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 1</cell>
+                     <cell>223</cell>
+                     <cell>105</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 8</cell>
+                     <cell>163</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>Dece. 15</cell>
+                     <cell>200</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Dece. 22</cell>
+                     <cell>168</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The total of the Burials this whole year, 38250 Of the Pl<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gue, 305<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>3.</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>1625. Buried in <hi>London</hi> and the Liberties of all diseases, Anno 1625. the number here following.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">total.</cell>
+                     <cell role="label">Pl.</cell>
+                  </row>
+                  <row>
+                     <cell>March 17</cell>
+                     <cell>262</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>March 24</cell>
+                     <cell>226</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>March 30</cell>
+                     <cell>243</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>April 7</cell>
+                     <cell>239</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>April 14</cell>
+                     <cell>256</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>April 21</cell>
+                     <cell>230</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>April 28</cell>
+                     <cell>305</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>292</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>332</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>379</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>401</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>June 2</cell>
+                     <cell>395</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>June 9</cell>
+                     <cell>434</cell>
+                     <cell>91</cell>
+                  </row>
+                  <row>
+                     <cell>June 16</cell>
+                     <cell>510</cell>
+                     <cell>165</cell>
+                  </row>
+                  <row>
+                     <cell>June 23</cell>
+                     <cell>640</cell>
+                     <cell>239</cell>
+                  </row>
+                  <row>
+                     <cell>June 30</cell>
+                     <cell>942</cell>
+                     <cell>390</cell>
+                  </row>
+                  <row>
+                     <cell>July 7</cell>
+                     <cell>1222</cell>
+                     <cell>593</cell>
+                  </row>
+                  <row>
+                     <cell>July 14</cell>
+                     <cell>1781</cell>
+                     <cell>1004</cell>
+                  </row>
+                  <row>
+                     <cell>July 21</cell>
+                     <cell>2850</cell>
+                     <cell>1819</cell>
+                  </row>
+                  <row>
+                     <cell>July 28</cell>
+                     <cell>3583</cell>
+                     <cell>2471</cell>
+                  </row>
+                  <row>
+                     <cell>August 4</cell>
+                     <cell>4517</cell>
+                     <cell>3659</cell>
+                  </row>
+                  <row>
+                     <cell>August 11</cell>
+                     <cell>4855</cell>
+                     <cell>4115</cell>
+                  </row>
+                  <row>
+                     <cell>August 18</cell>
+                     <cell>5205</cell>
+                     <cell>4463</cell>
+                  </row>
+                  <row>
+                     <cell>August 25</cell>
+                     <cell>4841</cell>
+                     <cell>4218</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 1</cell>
+                     <cell>3897</cell>
+                     <cell>3344</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 8</cell>
+                     <cell>3157</cell>
+                     <cell>2550</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 15</cell>
+                     <cell>2148</cell>
+                     <cell>1672</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 22</cell>
+                     <cell>1993</cell>
+                     <cell>1551</cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 29</cell>
+                     <cell>1236</cell>
+                     <cell>852</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 6</cell>
+                     <cell>833</cell>
+                     <cell>538</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 13</cell>
+                     <cell>815</cell>
+                     <cell>511</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 20</cell>
+                     <cell>651</cell>
+                     <cell>331</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 27</cell>
+                     <cell>375</cell>
+                     <cell>134</cell>
+                  </row>
+                  <row>
+                     <cell>Novemb. 3</cell>
+                     <cell>357</cell>
+                     <cell>89</cell>
+                  </row>
+                  <row>
+                     <cell>Novem 10</cell>
+                     <cell>319</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 17</cell>
+                     <cell>274</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Nov. 24</cell>
+                     <cell>231</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Decemb. 1</cell>
+                     <cell>290</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Decemb. 8</cell>
+                     <cell>181</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 15</cell>
+                     <cell>168</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 22</cell>
+                     <cell>157</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The total of all the Bu<g ref="char:EOLhyphen"/>rials this Year, 54082 Of the Plague 3542</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>1630.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">total.</cell>
+                     <cell role="label">Pl.</cell>
+                  </row>
+                  <row>
+                     <cell>June 24</cell>
+                     <cell>205</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>July 1</cell>
+                     <cell>209</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>July 8</cell>
+                     <cell>217</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>July 15</cell>
+                     <cell>250</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>July 22</cell>
+                     <cell>229</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>July 29</cell>
+                     <cell>279</cell>
+                     <cell>77</cell>
+                  </row>
+                  <row>
+                     <cell>August 5</cell>
+                     <cell>250</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>August 12</cell>
+                     <cell>246</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell>August 19</cell>
+                     <cell>269</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>August 26</cell>
+                     <cell>270</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell>Septemb. 2</cell>
+                     <cell>230</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Septemb. 9</cell>
+                     <cell>259</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 16</cell>
+                     <cell>264</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 23</cell>
+                     <cell>274</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 30</cell>
+                     <cell>269</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 7</cell>
+                     <cell>236</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 14</cell>
+                     <cell>261</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 21</cell>
+                     <cell>248</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 28</cell>
+                     <cell>214</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Novemb. 4</cell>
+                     <cell>242</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 11</cell>
+                     <cell>215</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Novem. 18</cell>
+                     <cell>200</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>N<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 25</cell>
+                     <cell>226</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Decemb. 2</cell>
+                     <cell>221</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 9</cell>
+                     <cell>198</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Decem. 16</cell>
+                     <cell>217</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The total of the Burials this whol year 10554 Of the Plague, 1317</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">
+                        <p>
+                           <hi>Against the Plague.</hi>
+                        </p>
+                        <p>Take leaves of Sage Wormwood, of each an ounce &amp; half, Rue six ounces and half, wash them in Spring water, cut &amp; beat them let the juice run from them, &amp; put it in an Earthen Pot with half a pint of strong white wine Vinegar, cover it close for 24. houres, strain it and add an ounce of Turbish fine<g ref="char:EOLhyphen"/>ly powdered, cover all close 24. hours more, afterwards strain it, &amp; then use it.</p>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <head>1636.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">total.</cell>
+                     <cell role="label">Pl.</cell>
+                  </row>
+                  <row>
+                     <cell>April 7</cell>
+                     <cell>119</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>April 14</cell>
+                     <cell>205</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">This week was added to the Bill these Parishes, <list>
+                           <item>St. Marg. Westminster.</item>
+                           <item>Lambeth.</item>
+                           <item>St. Mary Newington</item>
+                           <item>Redriff Parish</item>
+                           <item>St. Mary Islington</item>
+                           <item>Stepney Parish</item>
+                           <item>Hackney Parish</item>
+                        </list>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>April 21</cell>
+                     <cell>285</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>April 28</cell>
+                     <cell>259</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>May 5</cell>
+                     <cell>251</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>May 12</cell>
+                     <cell>308</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>May 19</cell>
+                     <cell>299</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>May 26</cell>
+                     <cell>330</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>June 2</cell>
+                     <cell>339</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell>June 9</cell>
+                     <cell>345</cell>
+                     <cell>87</cell>
+                  </row>
+                  <row>
+                     <cell>June 16</cell>
+                     <cell>381</cell>
+                     <cell>103</cell>
+                  </row>
+                  <row>
+                     <cell>June 23</cell>
+                     <cell>304</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell>June 30</cell>
+                     <cell>352</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>July 7</cell>
+                     <cell>215</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>July 14</cell>
+                     <cell>372</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>July 21</cell>
+                     <cell>395</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>20</cell>
+                  </row>
+                  <row>
+                     <cell>July 28</cell>
+                     <cell>423</cell>
+                     <cell>151</cell>
+                  </row>
+                  <row>
+                     <cell>August 4</cell>
+                     <cell>461</cell>
+                     <cell>206</cell>
+                  </row>
+                  <row>
+                     <cell>August 11</cell>
+                     <cell>538</cell>
+                     <cell>283</cell>
+                  </row>
+                  <row>
+                     <cell>August 18</cell>
+                     <cell>638</cell>
+                     <cell>321</cell>
+                  </row>
+                  <row>
+                     <cell>August 25</cell>
+                     <cell>787</cell>
+                     <cell>429</cell>
+                  </row>
+                  <row>
+                     <cell>Septemb. 1</cell>
+                     <cell>1011</cell>
+                     <cell>638</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 8</cell>
+                     <cell>1069</cell>
+                     <cell>650</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 15</cell>
+                     <cell>1306</cell>
+                     <cell>865</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 22</cell>
+                     <cell>1229</cell>
+                     <cell>775</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 29</cell>
+                     <cell>1403</cell>
+                     <cell>928</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 6</cell>
+                     <cell>1405</cell>
+                     <cell>921</cell>
+                  </row>
+                  <row>
+                     <cell>Octob 13</cell>
+                     <cell>1302</cell>
+                     <cell>792</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 20</cell>
+                     <cell>1002</cell>
+                     <cell>555</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 27</cell>
+                     <cell>900</cell>
+                     <cell>458</cell>
+                  </row>
+                  <row>
+                     <cell>Novemb. 3</cell>
+                     <cell>1300</cell>
+                     <cell>138</cell>
+                  </row>
+                  <row>
+                     <cell>Nov. 10</cell>
+                     <cell>1104</cell>
+                     <cell>715</cell>
+                  </row>
+                  <row>
+                     <cell>Nov. 17</cell>
+                     <cell>950</cell>
+                     <cell>573</cell>
+                  </row>
+                  <row>
+                     <cell>Nov. 24</cell>
+                     <cell>857</cell>
+                     <cell>476</cell>
+                  </row>
+                  <row>
+                     <cell>Decemb. 1</cell>
+                     <cell>614</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>12</cell>
+                  </row>
+                  <row>
+                     <cell>Dec. 8</cell>
+                     <cell>459</cell>
+                     <cell>167</cell>
+                  </row>
+                  <row>
+                     <cell>Dec. 15</cell>
+                     <cell>383</cell>
+                     <cell>8<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dec. 22</cell>
+                     <cell>316</cell>
+                     <cell>76</cell>
+                  </row>
+                  <row>
+                     <cell>Dec. 29</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>83</cell>
+                     <cell>125</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The total of a Burials this whole ye<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, 27415 Of the Plague 1<gap reason="illegible" resp="#murp" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <head>1637.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">total.</cell>
+                     <cell role="label">Pl▪</cell>
+                  </row>
+                  <row>
+                     <cell>January 5</cell>
+                     <cell>318</cell>
+                     <cell>126</cell>
+                  </row>
+                  <row>
+                     <cell>Janu. 12</cell>
+                     <cell>314</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell>Jan. 19</cell>
+                     <cell>268</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>Jan. 26</cell>
+                     <cell>289</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>February 2</cell>
+                     <cell>351</cell>
+                     <cell>103</cell>
+                  </row>
+                  <row>
+                     <cell>Feb. 9</cell>
+                     <cell>315</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>Feb. 16</cell>
+                     <cell>285</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>Feb. 23</cell>
+                     <cell>254</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>March 2</cell>
+                     <cell>262</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>March 9</cell>
+                     <cell>332</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell>March 16</cell>
+                     <cell>303</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>March 23</cell>
+                     <cell>260</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell>March 30</cell>
+                     <cell>343</cell>
+                     <cell>115</cell>
+                  </row>
+                  <row>
+                     <cell>April 7</cell>
+                     <cell>301</cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>April 14</cell>
+                     <cell>288</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell>April 21</cell>
+                     <cell>300</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>April 28</cell>
+                     <cell>319</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell>May 4</cell>
+                     <cell>292</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>May 11</cell>
+                     <cell>300</cell>
+                     <cell>105</cell>
+                  </row>
+                  <row>
+                     <cell>May 18</cell>
+                     <cell>285</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>May 25</cell>
+                     <cell>314</cell>
+                     <cell>83</cell>
+                  </row>
+                  <row>
+                     <cell>June 1</cell>
+                     <cell>269</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>June 8</cell>
+                     <cell>273</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>June 15</cell>
+                     <cell>268</cell>
+                     <cell>110</cell>
+                  </row>
+                  <row>
+                     <cell>June 22</cell>
+                     <cell>304</cell>
+                     <cell>106</cell>
+                  </row>
+                  <row>
+                     <cell>June 29</cell>
+                     <cell>371</cell>
+                     <cell>159</cell>
+                  </row>
+                  <row>
+                     <cell>July 6</cell>
+                     <cell>362</cell>
+                     <cell>163</cell>
+                  </row>
+                  <row>
+                     <cell>July 13</cell>
+                     <cell>325</cell>
+                     <cell>133</cell>
+                  </row>
+                  <row>
+                     <cell>July 20</cell>
+                     <cell>321</cell>
+                     <cell>140</cell>
+                  </row>
+                  <row>
+                     <cell>July 27</cell>
+                     <cell>335</cell>
+                     <cell>117</cell>
+                  </row>
+                  <row>
+                     <cell>August 3</cell>
+                     <cell>300</cell>
+                     <cell>89</cell>
+                  </row>
+                  <row>
+                     <cell>August 10</cell>
+                     <cell>275</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>August 17</cell>
+                     <cell>228</cell>
+                     <cell>53</cell>
+                  </row>
+                  <row>
+                     <cell>August 24</cell>
+                     <cell>225</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>August 31</cell>
+                     <cell>209</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Septemb. 7</cell>
+                     <cell>227</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 14</cell>
+                     <cell>200</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 21</cell>
+                     <cell>184</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Sept. 28</cell>
+                     <cell>197</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>October 5</cell>
+                     <cell>166</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 12</cell>
+                     <cell>198</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Octob. 19</cell>
+                     <cell>174</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">The total of all Buri<g ref="char:EOLhyphen"/>als this year, 14270 Of the Plague, 3603</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>1638. Buried 16621 Of the Plague 508</cell>
+                  </row>
+                  <row>
+                     <cell>1646 Buried Of the Plague 2436</cell>
+                  </row>
+                  <row>
+                     <cell>1647. Buried 16452 Of the Plague 5285</cell>
+                  </row>
+                  <row>
+                     <cell>1648. Buried 11509 Of the Plague, 693</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>1665. Buried in <hi>London</hi> and the Liberties of all diseases the number followeth,</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">total.</cell>
+                     <cell role="label">Pl.</cell>
+                  </row>
+                  <row>
+                     <cell>April 25</cell>
+                     <cell>398</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>May 2</cell>
+                     <cell>388</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>May 9</cell>
+                     <cell>347</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>May 16</cell>
+                     <cell>353</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>May 23</cell>
+                     <cell>385</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>May 30</cell>
+                     <cell>399</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>June 6</cell>
+                     <cell>405</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>June 13</cell>
+                     <cell>558</cell>
+                     <cell>112</cell>
+                  </row>
+                  <row>
+                     <cell>June 20</cell>
+                     <cell>611</cell>
+                     <cell>168</cell>
+                  </row>
+                  <row>
+                     <cell>June 27</cell>
+                     <cell>684</cell>
+                     <cell>267</cell>
+                  </row>
+                  <row>
+                     <cell>July 4</cell>
+                     <cell>1006</cell>
+                     <cell>470</cell>
+                  </row>
+                  <row>
+                     <cell>July 11</cell>
+                     <cell>1268</cell>
+                     <cell>725</cell>
+                  </row>
+                  <row>
+                     <cell>July 18</cell>
+                     <cell>1761</cell>
+                     <cell>1089</cell>
+                  </row>
+                  <row>
+                     <cell>July 25</cell>
+                     <cell>2785</cell>
+                     <cell>1843</cell>
+                  </row>
+                  <row>
+                     <cell>August 1</cell>
+                     <cell>3014</cell>
+                     <cell>2010</cell>
+                  </row>
+                  <row>
+                     <cell>August 8</cell>
+                     <cell>4030</cell>
+                     <cell>2817</cell>
+                  </row>
+                  <row>
+                     <cell>August 15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>August 22</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>August 29</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Septem. 5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Buried in the 97 Parishes within <hi>London,</hi> from <hi>August</hi> 1st. to the 8<seg rend="sup">th</seg>.</cell>
+                     <cell>341</cell>
+                  </row>
+                  <row>
+                     <cell>And of the Plague</cell>
+                     <cell>208</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>In the Out-Parishes this Week, of the Plague</cell>
+                     <cell>2609</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Andrews Holborn</hi>
+                     </cell>
+                     <cell>183</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Bartholmew great</hi>
+                     </cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Bartholmew lesse</hi>
+                     </cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Brides Parish</hi>
+                     </cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bridwel Precinct</hi>
+                     </cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Botolph Aldersga.</hi>
+                     </cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Botolph Algate</hi>
+                     </cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Botolph Bishopsgate</hi>
+                     </cell>
+                     <cell>133</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Dunstans West</hi>
+                     </cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>George Southwark</hi>
+                     </cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Giles Cripplegate</hi>
+                     </cell>
+                     <cell>356</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Olives Southwark</hi>
+                     </cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Saviors Southwark</hi>
+                     </cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Sepulchers Parish</hi>
+                     </cell>
+                     <cell>205</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Thom. Southwark</hi>
+                     </cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Trinity Minories</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>At the Pest-house</hi>
+                     </cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Giles in the Fields</hi>
+                     </cell>
+                     <cell>259</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hackney Parish</hi>
+                     </cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>James Clerkenwel</hi>
+                     </cell>
+                     <cell>136</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Katharine Tower</hi>
+                     </cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lambeth Parish</hi>
+                     </cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Leonar. Shoreditch</hi>
+                     </cell>
+                     <cell>122</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Magda. Bermonds.</hi>
+                     </cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Mary Newington</hi>
+                     </cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Mary Islington</hi>
+                     </cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Mary Whitechappel</hi>
+                     </cell>
+                     <cell>158</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Redriff Parish</hi>
+                     </cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stepney Parish</hi>
+                     </cell>
+                     <cell>136</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Clement Danes</hi>
+                     </cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Paul Coven garden</hi>
+                     </cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>S. <hi>Martins ith' fields</hi>
+                     </cell>
+                     <cell>213</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>S. Mary Savoy</hi>
+                     </cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>S. Margaret Westm.</hi>
+                     </cell>
+                     <cell>173</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>At Pest-house.</hi>
+                     </cell>
+                     <cell>39</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>Buri<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d in <hi>London</hi> this week of all Diseases</cell>
+                     <cell>4030</cell>
+                  </row>
+                  <row>
+                     <cell>Of the Plague</cell>
+                     <cell>2817</cell>
+                  </row>
+                  <row>
+                     <cell>Increased in the Burials this week</cell>
+                     <cell>1016</cell>
+                  </row>
+                  <row>
+                     <cell>Parishes Cleare of the Plague</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arishes Infected</cell>
+                     <cell>86</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by <hi>T. Mabb,</hi> for <hi>R. Burton,</hi> an<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>R. Gilberson.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
